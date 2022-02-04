@@ -4,7 +4,7 @@
 
 **You can make things bold**
 
-**You can make things italics**
+_You can make things italics_
 
 ***You can combine the two***
 
