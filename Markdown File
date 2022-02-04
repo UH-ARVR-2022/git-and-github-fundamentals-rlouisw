@@ -16,3 +16,6 @@ git commit
 ```
 
 I can even make a link so that others can know all about markdowns:  [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+Of course none of this is working, because what they don't tell you is that you have to name the file with a .md at the end.
+Go to Markdown File.md, where I have copied and pasted the above and it is working fine.
